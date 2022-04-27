@@ -2,7 +2,7 @@
 
 **Requirements**: Linux, .sh file
 
-**How to run the file**: Download the .sh file or clone the repository, and run it in the Linux  
+**How to run the program**: Download the .sh file or clone the repository, and run it in the Linux  
   - (You may need to change the file's permission to be executable using ```chmod``` command)
   - **$./**_File Name i.e. **PasswordValidation.sh**_
 
