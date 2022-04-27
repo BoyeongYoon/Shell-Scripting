@@ -4,8 +4,10 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
-***
 
 # 1) Password Validation
 
@@ -20,6 +22,9 @@ A script to validate how secure someone's password is
  - The password should contain numbers and letters  
  - There should be both uppercase and lowercase letters  
 
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -52,6 +57,9 @@ A script that do basic caculations with 5 to 10 integers that an user entered
      - the values the user entered  
      - each of the calculations, using a phrase that identifies the value  
 
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
