@@ -9,6 +9,11 @@
 
 # 1) Password Validation
 
+![Screen Shot 2022-04-27 at 5 13 38 PM](https://user-images.githubusercontent.com/30683150/165632176-425bf3a7-bd35-4b67-b74b-707c2b41fcb2.png)  
+
+<br>
+<br>
+
 A script to validate how secure someone's password is  
 
  - Length should be 8 or more characters  
