@@ -1,7 +1,4 @@
-Date: April 2022  
 
-<br>
-<br>
 
 # 1) Password Validation
 
