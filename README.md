@@ -26,6 +26,11 @@ A script to validate how secure someone's password is
 
 # 2) Basic Calculations
 
+![Screen Shot 2022-04-27 at 5 15 07 PM](https://user-images.githubusercontent.com/30683150/165632355-a0bc6100-22f7-4339-9cb5-6df9e5056208.png)  
+
+<br>
+<br>
+
 A script that do basic caculations with 5 to 10 integers that an user entered  
 
 <br>
