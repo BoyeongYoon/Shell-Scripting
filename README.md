@@ -58,8 +58,14 @@ A script that do basic caculations with 5 to 10 integers that an user entered
 
 # 3) Reverse Sorting
 
+![Screen Shot 2022-04-27 at 5 16 04 PM](https://user-images.githubusercontent.com/30683150/165632508-6f07e211-09b7-40d6-b342-f6bc6a684e07.png). 
+
+<br>
+<br>
+
 A script that uses this file to perform the following tasks:  
 
   - Read in the file (number.txt)  
   - Sort the numbers into reverse order and output them to the screen  
   - Each number should output exactly once. Duplicate numbers should not appear in the output  
+
