@@ -1,4 +1,11 @@
+**Requirements**: Linux  
+**How to run the file**: Download the .sh file or clone the repository, and run it in the Linux  
 
+<br>
+<br>
+<br>
+
+***
 
 # 1) Password Validation
 
