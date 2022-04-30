@@ -7,7 +7,7 @@ BasicCalculations(){
         echo "=============== BASIC CALCULATIONS ================="
         echo -e "====================================================\n"
 
-        # Reads 5 to 10 integers from an user and stores in the array NUMBERS
+        # Reads 5 or 10 integers from an user and stores in the array NUMBERS
         echo "Enter 10 intergers (ENTER after each int): "
         for i in {0..9}
         do
