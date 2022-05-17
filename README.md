@@ -6,7 +6,11 @@
   - (You may need to change the file's permission to be executable using ```chmod``` command - i.e. ```chmod 744 PasswordValidation.sh```)
   - **$./**_File Name i.e. **PasswordValidation.sh**_
 
+<br>
 
+- [Basic Calculations]()  
+- [Password Validation]()  
+- [Reverse Sorting]()   
 <br>
 <br>
 <br>
