@@ -11,6 +11,7 @@
 - [Basic Calculations](https://github.com/BoyeongYoon/Shell-Scripting/blob/main/BasicCalculations.sh)  
 - [Password Validation](https://github.com/BoyeongYoon/Shell-Scripting/blob/main/PasswordValidation.sh)  
 - [Reverse Sorting](https://github.com/BoyeongYoon/Shell-Scripting/blob/main/ReverseSorting.sh)   
+  - number.txt  
 
 <br>
 <br>
