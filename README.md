@@ -8,29 +8,9 @@
 
 <br>
 
-- [Basic Calculations]()  
-- [Password Validation]()  
-- [Reverse Sorting]()   
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-# 1) Password Validation
-
-![Screen Shot 2022-04-27 at 5 13 38 PM](https://user-images.githubusercontent.com/30683150/165632176-425bf3a7-bd35-4b67-b74b-707c2b41fcb2.png)  
-
-<br>
-<br>
-
-A script to validate how secure someone's password is  
-
- - Length should be 8 or more characters  
- - The password should contain numbers and letters  
- - There should be both uppercase and lowercase letters © mThree  
+- [Basic Calculations](https://github.com/BoyeongYoon/Shell-Scripting/blob/main/BasicCalculations.sh)  
+- [Password Validation](https://github.com/BoyeongYoon/Shell-Scripting/blob/main/PasswordValidation.sh)  
+- [Reverse Sorting](https://github.com/BoyeongYoon/Shell-Scripting/blob/main/ReverseSorting.sh)   
 
 <br>
 <br>
@@ -39,7 +19,7 @@ A script to validate how secure someone's password is
 <br>
 <br>
 
-# 2) Basic Calculations
+# 1) Basic Calculations
 
 ![Screen Shot 2022-04-27 at 5 15 07 PM](https://user-images.githubusercontent.com/30683150/165632355-a0bc6100-22f7-4339-9cb5-6df9e5056208.png)  
 
@@ -66,6 +46,26 @@ A script that do basic caculations with 5 to 10 integers that an user entered
   3. After performing the calculations, the program display the following to the user:  
      - the values the user entered  
      - each of the calculations, using a phrase that identifies the value © mThree  
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# 2) Password Validation
+
+![Screen Shot 2022-04-27 at 5 13 38 PM](https://user-images.githubusercontent.com/30683150/165632176-425bf3a7-bd35-4b67-b74b-707c2b41fcb2.png)  
+
+<br>
+<br>
+
+A script to validate how secure someone's password is  
+
+ - Length should be 8 or more characters  
+ - The password should contain numbers and letters  
+ - There should be both uppercase and lowercase letters © mThree  
 
 <br>
 <br>
