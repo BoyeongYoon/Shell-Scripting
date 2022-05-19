@@ -4,10 +4,9 @@
 
 **How to run the program**: Download the .sh file or clone the repository, and run it in the Linux  
   - (You may need to change the file's permission to be executable using ```chmod``` command - i.e. ```chmod 744 PasswordValidation.sh```)
-  - **$./**_File Name i.e. **PasswordValidation.sh**_
-
-<br>
-
+  - **$./**_File Name i.e. **PasswordValidation.sh**_  
+ 
+**Source Code**
 - [Basic Calculations](https://github.com/BoyeongYoon/Shell-Scripting/blob/main/BasicCalculations.sh)  
 - [Password Validation](https://github.com/BoyeongYoon/Shell-Scripting/blob/main/PasswordValidation.sh)  
 - [Reverse Sorting](https://github.com/BoyeongYoon/Shell-Scripting/blob/main/ReverseSorting.sh)   
