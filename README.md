@@ -13,7 +13,7 @@
   - number.txt  
 
 **Sample Output**
-- [Basic Calculations](#basic-calculations)
+- [Basic Calculations](#1)-basic-calculations)
 - [Password Validation](#password-validation)
 - [Reverse Sorting](#reverse-sorting)
 
