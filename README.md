@@ -12,6 +12,11 @@
 - [Reverse Sorting](https://github.com/BoyeongYoon/Shell-Scripting/blob/main/ReverseSorting.sh)   
   - number.txt  
 
+**Sample Output**
+- [Basic Calculations](#basic-calculations)
+- [Password Validation](#password-validation)
+- [Reverse Sorting](#reverse-sorting)
+
 <br>
 <br>
 <br>
